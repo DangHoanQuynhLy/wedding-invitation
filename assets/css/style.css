@@ -140,7 +140,7 @@ h2{
     width:100%;
     background:
     url("../images/cover.jpg")
-    center center/cover no-repeat;
+    center center/contain no-repeat;
     display:flex;
     align-items:center;
     justify-content:center;
