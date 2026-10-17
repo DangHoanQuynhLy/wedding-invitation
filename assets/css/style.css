@@ -141,6 +141,7 @@ h2{
     background:
     url("../images/cover.jpg")
     center center/contain no-repeat;
+    background-color:var(--white);
     display:flex;
     align-items:center;
     justify-content:center;
